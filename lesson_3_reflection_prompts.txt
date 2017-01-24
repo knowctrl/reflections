@@ -31,3 +31,12 @@ Use email to collaborate without using Git or GitHub. It would be easier
 short-term, for small repositories, in that no one would have to learn how to
 use Git or GitHub. Long-term and for large or complex repositories, it would be
 more difficult to track change history and find conflicts.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+Using a separate branch allows you to test a commit before altering the master
+branch. The benefit of this is it allows others working on the repository to
+check your work before a merge. The benefits of not using a branch are a less
+complex repository and faster development time for trivial changes.
+

@@ -23,3 +23,11 @@ stored locally?
 
 Having a locally stored copy allows you to work off-line and compare changes
 made to the online repository.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Use email to collaborate without using Git or GitHub. It would be easier
+short-term, for small repositories, in that no one would have to learn how to
+use Git or GitHub. Long-term and for large or complex repositories, it would be
+more difficult to track change history and find conflicts.

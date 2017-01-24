@@ -17,3 +17,9 @@ you want to make changes but don't have permissions to change the repository.
 Clones are duplicates of repositories located locally and remotely. This would
 be used when you want to change the repository. Branches are a way to make
 changes to a repository without losing the original content.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Having a locally stored copy allows you to work off-line and compare changes
+made to the online repository.

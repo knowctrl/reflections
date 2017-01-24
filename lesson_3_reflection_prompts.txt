@@ -1,5 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work
-local?
+When would you want to use a remote repository rather than keeping all your
+work local?
 
 When other people are also contributing to the project and as a backup.
 
@@ -8,3 +8,12 @@ automatically stay up-to-date with your remote repository?
 
 Another user may have made changes that you are not aware of and you don't
 want a pull to erase the work you have done.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forks are clones of a repository located on GitHub. This would be used when
+you want to make changes but don't have permissions to change the repository.
+Clones are duplicates of repositories located locally and remotely. This would
+be used when you want to change the repository. Branches are a way to make
+changes to a repository without losing the original content.
